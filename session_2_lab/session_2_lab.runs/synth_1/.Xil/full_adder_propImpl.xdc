@@ -1,0 +1,13 @@
+set_property SRC_FILE_INFO {cfile:C:/Users/tamka/OneDrive/Documents/Vivado_projects/session_2_lab/session_2_lab.srcs/constrs_1/new/my_constraint.xdc rfile:../../../session_2_lab.srcs/constrs_1/new/my_constraint.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:5 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN J15   IOSTANDARD LVCMOS33 } [get_ports { a }]; #IO_L24N_T3_RS0_15 Sch=sw[0]
+set_property src_info {type:XDC file:1 line:6 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN L16   IOSTANDARD LVCMOS33 } [get_ports { b }]; #IO_L3N_T0_DQS_EMCCLK_14 Sch=sw[1]
+set_property src_info {type:XDC file:1 line:7 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN M13   IOSTANDARD LVCMOS33 } [get_ports { c_in }]; #IO_L6N_T0_D08_VREF_14 Sch=sw[2]
+set_property src_info {type:XDC file:1 line:14 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN J13   IOSTANDARD LVCMOS33 } [get_ports { s }]; #IO_L17N_T2_A25_15 Sch=led[2]
+set_property src_info {type:XDC file:1 line:15 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN N14   IOSTANDARD LVCMOS33 } [get_ports { c_out }]; #IO_L8P_T1_D11_14 Sch=led[3]
+set_property src_info {type:XDC file:1 line:28 export:INPUT save:INPUT read:READ} [current_design]
+set_max_delay 6.5 -from [get_pins c_in] -to [get_pins c_out];

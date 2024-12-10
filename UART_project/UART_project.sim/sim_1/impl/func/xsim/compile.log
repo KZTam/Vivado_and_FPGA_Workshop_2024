@@ -1,0 +1,3 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/tamka/OneDrive/Documents/Vivado_projects/UART_project/UART_project.sim/sim_1/impl/func/xsim/baud_rate_generator_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module baud_rate_generator
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,11 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/tamka/OneDrive/Documents/Vivado_projects/UART_project/UART_project.gen/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v,1730023076,verilog,,C:/Users/tamka/OneDrive/Documents/Vivado_projects/UART_project/UART_project.srcs/sources_1/new/baud_rate_generator.v,,fifo_generator_0,,,,,,,,
+C:/Users/tamka/OneDrive/Documents/Vivado_projects/UART_project/UART_project.gen/sources_1/ip/fifo_generator_1/sim/fifo_generator_1.v,1730023297,verilog,,C:/Users/tamka/OneDrive/Documents/Vivado_projects/UART_project/UART_project.gen/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v,,fifo_generator_1,,,,,,,,
+C:/Users/tamka/OneDrive/Documents/Vivado_projects/UART_project/UART_project.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/tamka/OneDrive/Documents/Vivado_projects/UART_project/UART_project.srcs/sources_1/new/baud_rate_generator.v,1729956940,verilog,,C:/Users/tamka/OneDrive/Documents/Vivado_projects/UART_project/UART_project.srcs/sources_1/new/receiver.v,,baud_rate_generator,,,,,,,,
+C:/Users/tamka/OneDrive/Documents/Vivado_projects/UART_project/UART_project.srcs/sources_1/new/receiver.v,1730015375,verilog,,C:/Users/tamka/OneDrive/Documents/Vivado_projects/UART_project/UART_project.srcs/sources_1/new/transmitter.v,,receiver,,,,,,,,
+C:/Users/tamka/OneDrive/Documents/Vivado_projects/UART_project/UART_project.srcs/sources_1/new/transmitter.v,1730021043,verilog,,C:/Users/tamka/OneDrive/Documents/Vivado_projects/UART_project/UART_project.srcs/sources_1/new/uart_txrx.v,,transmitter,,,,,,,,
+C:/Users/tamka/OneDrive/Documents/Vivado_projects/UART_project/UART_project.srcs/sources_1/new/uart_txrx.v,1730032974,verilog,,,,uart_txrx,,,,,,,,

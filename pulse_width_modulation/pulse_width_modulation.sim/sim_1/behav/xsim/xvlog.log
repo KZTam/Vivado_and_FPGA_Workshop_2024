@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/tamka/OneDrive/Documents/Vivado_projects/pulse_width_modulation/pulse_width_modulation.srcs/sources_1/new/PWM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PWM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/tamka/OneDrive/Documents/Vivado_projects/pulse_width_modulation/pulse_width_modulation.srcs/sim_1/new/pwm_testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pwm_testbench
